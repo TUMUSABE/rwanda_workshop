@@ -35,6 +35,8 @@ For this course, we will be using [Google Colab](http://colab.research.google.co
 1. [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
 2. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
+Please fill out the [participant survey](https://forms.gle/17V861mp1grWJ5dC6) before the end of Day 1.
+
 ## Day 1: Exploring Data and Building Regression Models
 In Day 1,  we will cover how to read data from file, deal with different types and address different issues with data. We will see how to generate and test simple hypotheses from basic data visualizations and summaries. At the end of Day 1, we will see how to build machine models for predicting a continuous output.
 
