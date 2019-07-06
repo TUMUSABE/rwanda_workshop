@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 
-title: Introduction to Data Science
-description: This is a 5 day short workshop on the practical fundamentals of data science using `python`. This workshop will cover a variety of models solving a range of different data science tasks; it will familiarize participants with useful `python` libraries for data science.
+title: [Introduction to Data Science]
+description: [This is a 5 day short workshop on the practical fundamentals of data science using `python`. This workshop will cover a variety of models solving a range of different data science tasks; it will familiarize participants with useful `python` libraries for data science.]
 logo: [inst_logo.png]
 show_downloads: ["true"]
