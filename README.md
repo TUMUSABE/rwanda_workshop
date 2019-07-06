@@ -35,3 +35,4 @@ Complete the Day 1 colab notebooks.
 ## Day 4: Models for Natural Language Processing
 
 ## Day 5: Final Exam
+The course culminates in a 4-hour in class coding exam, where each participant will apply data science concepts and tools to a real data solving a real task. The exam is open book/notes - participants may use any class material. Exams need to be completed in colab and shared with the instructor for grading. **Late exams and alternate forms of submissions** will not be accepted.
