@@ -49,7 +49,7 @@ For exploratory data analysis (EDA), we will be using three `python` libraries: 
 3. [Pandas Tutorial 1: Pandas Basics (Reading Data Files, DataFrames, Data Selection](https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/)
 
 **Day 1 Materials:** 
-1. Slides: [EDA](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Day_1_Lecture_Notes_EDA.ipynb)
+1. Slides: [EDA](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Day_1_Lecture_Notes_EDA.ipynb), [Regression](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Day_1_Lecture_Notes_Regression.ipynb)
 2. Readings: [Intro to Python I](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Intro_to_Python.pdf), [Intro to Python II](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Intro_to_Python_II.pdf), [Python Cheetsheet](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Python_cheatsheet.pdf)
 3. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/12aYMVK9W3spq7HEZ_881Z5-InDwZK3lm)
 
