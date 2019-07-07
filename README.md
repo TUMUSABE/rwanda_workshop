@@ -35,9 +35,10 @@ For this course, we will be using [Google Colab](http://colab.research.google.co
 1. [A Beginner’s Tutorial to Jupyter Notebooks](https://towardsdatascience.com/a-beginners-tutorial-to-jupyter-notebooks-1b2f8705888a)
 2. [Introduction to Colab and Python](https://colab.research.google.com/github/tensorflow/examples/blob/master/courses/udacity_intro_to_tensorflow_for_deep_learning/l01c01_introduction_to_colab_and_python.ipynb)
 
+**Day 0 Homework:** 
 Please fill out the [participant survey](https://forms.gle/17V861mp1grWJ5dC6) before the end of Day 1.
 
-## Day 1: Exploring Data and Building Regression Models
+## Day 1 (July 8th): Exploring Data and Building Regression Models
 In Day 1,  we will cover how to read data from file, deal with different types and address different issues with data. We will see how to generate and test simple hypotheses from basic data visualizations and summaries. At the end of Day 1, we will see how to build machine models for predicting a continuous output.
 
 The dataset we will be using is the [Berlin Airbnb Dataset](https://www.kaggle.com/brittabettendorf/berlin-airbnb-data) 
@@ -54,7 +55,7 @@ For exploratory data analysis (EDA), we will be using three `python` libraries: 
 **Day 1 Homework:** 
 Complete the Day 1 colab notebooks.
 
-## Day 2: Models for Classification
+## Day 2 (July 9th): Models for Classification
 In Day 2, we will cover different machine learning models for classification. We also discuss how to evaluate and interpret models. 
 
 The dataset we will be using is the [The Home Mortgage Disclosure Act Data](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=ca&records=all-records&field_descriptions=labels), which consists of US mortgage loan applications and outcomes.
@@ -66,7 +67,7 @@ The dataset we will be using is the [The Home Mortgage Disclosure Act Data](http
 **Day 2 Homework:** 
 Complete the Day 2 colab notebooks.
 
-## Day 3: Models for Image Analysis
+## Day 3 (July 10th): Models for Image Analysis
 
 In Day 3, we will introduce neural networks models for both regression and classification. We will focus especially on using neural networks for image analysis tasks. 
 
@@ -79,7 +80,7 @@ The dataset we will be using is the [Sentinel-2 satellite images dataset](http:/
 **Day 3 Homework:** 
 Complete the Day 3 colab notebooks.
 
-## Day 4: Models for Natural Language Processing
+## Day 4 (July 11th): Models for Natural Language Processing
 
 In Day 4, we will discuss how to process and represent text data and we will focus on using neural networks for natural language processing tasks. 
 
