@@ -94,7 +94,6 @@ The dataset we will be using is the [Large Movie Review Dataset](http://ai.stanf
 **Day 3 Homework:** 
 Complete the Day 4 colab notebooks.
 
----
 
 ## Day 5 (July 12th): Final Exam
 The course culminates in a 4-hour in class coding exam, where each participant will apply data science concepts and tools to a real data solving a real task. The exam is open book/notes - participants may use any class material. Exams need to be completed in colab and shared with the instructor for grading. **Late exams and alternate forms of submissions** will not be accepted.
