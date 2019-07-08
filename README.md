@@ -63,7 +63,7 @@ The dataset we will be using is the [The Home Mortgage Disclosure Act Data](http
 
 **Day 2 Materials:** 
 1. [Slides]
-2. [Colab Notebooks]
+2. [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
 
 **Day 2 Homework:** 
 Complete the Day 2 colab notebooks.
