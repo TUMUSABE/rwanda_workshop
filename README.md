@@ -63,7 +63,7 @@ The dataset we will be using is the [The Home Mortgage Disclosure Act Data](http
 
 **Day 2 Materials:** 
 1. Slides: [Classification](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_2)
-2. Readings: [Common evaluation metrics for classification](https://shuzhanfan.github.io/2018/02/model-evaluation-metrics/)[Even more metrics](https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/) 
+2. Readings: [Common evaluation metrics for classification](https://shuzhanfan.github.io/2018/02/model-evaluation-metrics/), [Even more metrics](https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/) 
 3. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
 
 **Day 2 Homework:** 
