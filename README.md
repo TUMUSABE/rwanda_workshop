@@ -62,8 +62,8 @@ In Day 2, we will cover different machine learning models for classification. We
 The dataset we will be using is the [The Home Mortgage Disclosure Act Data](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=ca&records=all-records&field_descriptions=labels), which consists of US mortgage loan applications and outcomes.
 
 **Day 2 Materials:** 
-1. [Slides]
-2. [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
+1. Slides: [Classification](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_2/Day_2_Lecture_Notes_Classification.ipynb)
+2. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
 
 **Day 2 Homework:** 
 Complete the Day 2 colab notebooks.
