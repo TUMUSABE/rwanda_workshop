@@ -63,7 +63,8 @@ The dataset we will be using is the [The Home Mortgage Disclosure Act Data](http
 
 **Day 2 Materials:** 
 1. Slides: [Classification](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_2/Day_2_Lecture_Notes_Classification.ipynb)
-2. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
+2. Readings: [Evaluation Metrics for Classification](https://towardsdatascience.com/understanding-data-science-classification-metrics-in-scikit-learn-in-python-3bc336865019) 
+3. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
 
 **Day 2 Homework:** 
 Complete the Day 2 colab notebooks.
