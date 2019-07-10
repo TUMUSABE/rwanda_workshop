@@ -76,8 +76,9 @@ In Day 3, we will introduce neural networks models for both regression and class
 The dataset we will be using is the [Sentinel-2 satellite images dataset](http://madm.dfki.de/downloads).
 
 **Day 3 Materials:** 
-1. [Slides]
-2. [Colab Notebooks]
+1. Slides: [Zoo of Models](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_3)
+2. Readings: [Building Neural Networks in Keras](https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+3. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
 
 **Day 3 Homework:** 
 Complete the Day 3 colab notebooks.
