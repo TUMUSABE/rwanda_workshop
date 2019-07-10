@@ -49,7 +49,7 @@ For exploratory data analysis (EDA), we will be using three `python` libraries: 
 3. [Pandas Tutorial 1: Pandas Basics (Reading Data Files, DataFrames, Data Selection](https://data36.com/pandas-tutorial-1-basics-reading-data-files-dataframes-data-selection/)
 
 **Day 1 Materials:** 
-1. Slides: [EDA](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Day_1_Lecture_Notes_EDA.ipynb), [Regression](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Day_1_Lecture_Notes_Regression.ipynb)
+1. Slides: [EDA](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_1), [Regression](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_1) (you can either download the slides as an ipython notebook `.ipynb` or `.html` file)
 2. Readings: [Intro to Python I](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Intro_to_Python.pdf), [Intro to Python II](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Intro_to_Python_II.pdf), [Python Cheetsheet](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_1/Python_cheatsheet.pdf)
 3. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/12aYMVK9W3spq7HEZ_881Z5-InDwZK3lm)
 
@@ -62,8 +62,8 @@ In Day 2, we will cover different machine learning models for classification. We
 The dataset we will be using is the [The Home Mortgage Disclosure Act Data](https://www.consumerfinance.gov/data-research/hmda/historic-data/?geo=ca&records=all-records&field_descriptions=labels), which consists of US mortgage loan applications and outcomes.
 
 **Day 2 Materials:** 
-1. Slides: [Classification](https://github.com/onefishy/rwanda_workshop/blob/master/lectures/lecture_2/Day_2_Lecture_Notes_Classification.ipynb)
-2. Readings: [Evaluation Metrics for Classification](https://towardsdatascience.com/understanding-data-science-classification-metrics-in-scikit-learn-in-python-3bc336865019) 
+1. Slides: [Classification](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_2) (you can either download the slides as an ipython notebook `.ipynb` or `.html` file)
+2. Readings: [Common evaluation metrics for classification](https://shuzhanfan.github.io/2018/02/model-evaluation-metrics/), [Even more metrics](https://www.machinelearningplus.com/machine-learning/evaluation-metrics-classification-models-r/) 
 3. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1Z77pNtlN6EyhNMc8KA5EgfBsj8x293Qv)
 
 **Day 2 Homework:** 
