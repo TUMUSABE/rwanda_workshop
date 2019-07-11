@@ -112,6 +112,6 @@ The course culminates in coding exam, where each participant will apply data sci
 
 **Late exams and alternate forms of submissions** will not be accepted.
 
-[Final Exam Notebook]()
+[Final Exam Notebook](https://colab.research.google.com/drive/1oeGn-1MPYaDIZIAyLf-vQalFx3nhS_hn)
 
 The tasks on the exam will be similar to those in the class colab notebooks - completing the notebooks from class is crucial for success on the exam!
