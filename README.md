@@ -89,15 +89,29 @@ In Day 4, we will discuss how to process and represent text data and we will foc
 
 The dataset we will be using is the [Large Movie Review Dataset](http://ai.stanford.edu/~amaas/data/sentiment/).
 
-**Day 4 Materials:** 
-1. [Slides]
-2. [Colab Notebooks]
+**More Opportunities in Machine Learning/Data Science:**
+1. [Real-World Problem Solving with Machine Learning (exmples of real-world applications of machine learning)](https://docs.google.com/document/d/18zX8fHoosjsIoUFmhmZ9GdhB6ZjSFNqCyILRMtCCP4E/edit?usp=sharing)
+2. [Machine Learning Summer School (scholarship available)](http://mlss.cc)
+3. [New York City Data Science Academy (scholarship available)](https://nycdatascience.com)
+4. [Microsoft Research Data Science Summer School (free)](https://www.microsoft.com/en-us/research/academic-program/data-science-summer-school/)
+5. [Online Courses Through Udemy (fee required)](https://www.udemy.com)
+6. [Online Courses Through edX](https://www.edx.org/course/machine-learning-1)
 
-**Day 3 Homework:** 
+**Day 4 Materials:** 
+1. Slides: [Images and Text](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_4)
+2. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1yGvWwji2_veMbbuslQHyT9D7HzjRDhyf)
+
+**Day 4 Homework:** 
 Complete the Day 4 colab notebooks.
 
 
 ## Day 5 (July 12th): Final Exam
-The course culminates in a 4-hour in class coding exam, where each participant will apply data science concepts and tools to a real data solving a real task. The exam is open book/notes - participants may use any class material. Exams need to be completed in colab and shared with the instructor for grading. **Late exams and alternate forms of submissions** will not be accepted.
+The course culminates in coding exam, where each participant will apply data science concepts and tools to a real data solving a real task. The exam is open book/notes - participants may use any class material. Exams need to be completed in colab and shared with the instructor for grading. 
+
+**The exam is due on Friday, July 12th, 11:59pm**
+
+**Late exams and alternate forms of submissions** will not be accepted.
+
+[Final Exam Notebook](https://colab.research.google.com/drive/1oeGn-1MPYaDIZIAyLf-vQalFx3nhS_hn)
 
 The tasks on the exam will be similar to those in the class colab notebooks - completing the notebooks from class is crucial for success on the exam!
