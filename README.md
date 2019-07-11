@@ -108,7 +108,7 @@ Complete the Day 4 colab notebooks.
 ## Day 5 (July 12th): Final Exam
 The course culminates in coding exam, where each participant will apply data science concepts and tools to a real data solving a real task. The exam is open book/notes - participants may use any class material. Exams need to be completed in colab and shared with the instructor for grading. 
 
-**The exam is due on Friday, July 12th, 11:59pm***
+**The exam is due on Friday, July 12th, 11:59pm**
 
 **Late exams and alternate forms of submissions** will not be accepted.
 
