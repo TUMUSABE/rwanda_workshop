@@ -98,8 +98,8 @@ The dataset we will be using is the [Large Movie Review Dataset](http://ai.stanf
 6. [Online Courses Through edX](https://www.edx.org/course/machine-learning-1)
 
 **Day 4 Materials:** 
-1. Slides:[Images and Text](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_4)
-2. Exercises:[Colab Notebooks](https://colab.research.google.com/drive/1yGvWwji2_veMbbuslQHyT9D7HzjRDhyf)
+1. Slides: [Images and Text](https://github.com/onefishy/rwanda_workshop/tree/master/lectures/lecture_4)
+2. Exercises: [Colab Notebooks](https://colab.research.google.com/drive/1yGvWwji2_veMbbuslQHyT9D7HzjRDhyf)
 
 **Day 4 Homework:** 
 Complete the Day 4 colab notebooks.
